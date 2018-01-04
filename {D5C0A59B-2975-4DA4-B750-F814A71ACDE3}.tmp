@@ -41,7 +41,9 @@
             <li class="nav-item">
               <a class="nav-link" href="about.html">About</a>
             </li>
-
+            <li class="nav-item">
+              <a class="nav-link" href="post.html">Sample Post</a>
+            </li>
             <li class="nav-item">
               <a class="nav-link" href="contact.html">Contact</a>
             </li>
@@ -79,21 +81,23 @@
             <p>Today, I have found what corresponds to my investment in terms of initial investment, yield and risk exposure. It will probabily be one or two car parks.</p>
             <p>But where ...?</p>
             <p>Indeed, two points seem relevant to me:</p>
-            <p>1. Not invest too much while earning a lot of money, and by a lot, I mean that just the choice of the location could help a lot in maximizing your profit.</p>
-            <p>2. Be able to sell my car parks if I want to (Bitcoin lovers, think about it). Indeed, this is one of the most volatile investment, and for a 23 guy, this is a must.</p>
-            <p>So obviously, I spent hours on the internet reading newspapers and specialized articles. I have a good idea of ​​the important parameters and I will tell you something, I still want to do something dealing with scraping and data vizualization. So let's do this.
-            Remember, I am only making, for now, a static analyse.</p>
+            <p>1. Not invest too much while earning a lot of money, and by a lot, I mean A LOT</p>
+            <p>2. Be able to sell my car parks if I want to (Bitcoin lovers, think about it)</p>
+            <p>So obviously, I spent hours on the internet reading newspapers and specialized articles. I have a good idea of ​​the important parameters and I will tell you something, I still want to do something dealing with scraping and data vizualization. So let's do this.</p>
+            <p>Remember, I am only making, for now, a static analyse.</p>
             <p>Let's go back to my two points.</p>
-            <p>On the one hand, it seems to be good to have a look at the ratio between rent and purchase prices. Indeed, I do not want to loose money just because I bought something in Neuilly-sur-Seine instead of Bagneux.
-            On the other hand, be able to sell my park if I want to, I will just compare how many parks are bought a year and compare this figure with the city inhabitants numbers </p>
+            <p>On the one hand, it seems to be good to have a look at the ratio between rent and purchase prices. Indeed, I do not want to loose money just because I bought something in Neuilly-sur-Seine instead of Bagneux.</p>
+            <p>On the other hand, Be able to sell my park if I want to, I will just compare how many parks are bought a year and compare this figure with the city inhabitants numbers </p>
             <p>&nbsp;</p>
             <p>And yes, do not forget this point, generally speaking, the more you buy, the cheaper. Ask your solicitor.</p>
 
             <p>The data are coming from a well-known sell and buy french platform. We take on this first observation data from 2017, October 23 rd to 2017, December 23rd.</p>
 
-           <iframe width="800" height="400" src="https://oungoun.shinyapps.io/park/" frameborder="0" allowFullScreen="true"></iframe>
+           <iframe width="800" height="600" src="https://oungoun.shinyapps.io/examples/" frameborder="0" allowFullScreen="true"></iframe>
 
-            <p>Please notice that this map is not finished yet. I am working on a daily based scraping. At the end, user will be able, in a few seconds, to have a clear view of the car park market and to extract date from the data base. Cheers ! </p>
+            
+
+            <p>Based on something, scraped somewhere.</p>
 
               
         </div>
@@ -140,4 +144,3 @@
   </body>
 
 </html>
-
